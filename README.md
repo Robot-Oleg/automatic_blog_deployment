@@ -1,4 +1,4 @@
-## Automation script using terraform to deploy my server on AWS
+## Automation script using terraform to deploy my blog on AWS
 
 
 ### to use script for your needs:
